@@ -24,7 +24,7 @@ CheckMate is an automated solution for processing bank cheques. It extracts rele
 4. Run the Streamlit app:
 
    ```bash
-   streamlit run main.py
+   streamlit run Home.py
    ```
 
 5. Access the app at `http://localhost:8501`.
